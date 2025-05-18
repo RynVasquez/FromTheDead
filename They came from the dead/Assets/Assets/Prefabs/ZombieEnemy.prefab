@@ -135,7 +135,6 @@ MonoBehaviour:
   MainCharacterRef: {fileID: 0}
   rb: {fileID: 7344908120936382229}
   moveSpeed: 4
-  rotationSpeed: 0
 --- !u!1 &7390279444222909567
 GameObject:
   m_ObjectHideFlags: 0
